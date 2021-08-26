@@ -26,4 +26,4 @@ const celebrityCollection = [
     description: "Academy Award Nominee",
     website: "https://en.wikipedia.org/wiki/Andy_Garc%C3%ADa"
 },
-];
+]

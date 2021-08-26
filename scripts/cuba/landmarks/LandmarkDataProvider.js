@@ -1,5 +1,5 @@
-export const getCity = ()=> {
-    return cityCollection;
+export const getLandmark = ()=> {
+    return landmarkCollection;
 };
 
 const landmarkCollection = [
